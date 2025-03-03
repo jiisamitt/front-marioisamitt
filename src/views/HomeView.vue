@@ -185,6 +185,10 @@ img {
 h1 { font-size: 2.5rem; }
 h2 { font-size: 2rem; }
 
+.name {
+  margin-top: 1rem;
+}
+
 /* Desktop layout */
 @media (min-width: 768px) {
   .landing {
