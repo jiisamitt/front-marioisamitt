@@ -50,7 +50,7 @@ Durante la consulta me esforzaré en encontrar el origen de tu dolencia. Una vez
 Me comprometo a escucharte con atención y tratarte con respeto. Me sentiré feliz y agradecido si logro ayudarte.
         </p>
         <footer class="about-signature">
-          <p class="big-shoulders-text">Dr. Mario Isamitt</p>
+          <h2 class="big-shoulders-text">Dr. Mario Isamitt</h2>
         </footer>
       </article>
 
