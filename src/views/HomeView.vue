@@ -107,7 +107,6 @@ Me comprometo a escucharte con atención y tratarte con respeto. Me sentiré fel
 img {
   width: 100%;
   height: 100%;
-  padding: 2rem;
   object-fit: cover;
   border-radius: 20px;
 }
