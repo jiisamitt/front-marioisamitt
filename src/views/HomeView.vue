@@ -7,7 +7,7 @@
       <article class="profile-section">
         <header class="profile-header">
           <figure class="profile-image">
-            <img src="" alt="Dr. Mario Isamitt" width="250" height="250">
+            <img src="../assets/mario_isamitt.jpg" alt="Dr. Mario Isamitt" width="250" height="250">
           </figure>
           <p class="big-shoulders-text name">Dr. Mario Isamitt</p>
           <p class="specialty">Medicina general y deportiva</p>
@@ -15,16 +15,16 @@
       </article>
 
       <nav class="actions">
-        <a href="#" class="action-button" role="button">
+        <a href="https://www.doctoralia.cl/mario-isamitt-pualuan/medico-general/concepcion" class="action-button" target="_blank"  role="button">
           Agendar hora consulta
         </a>
-        <a href="#" class="action-button" role="button">
+        <a href="https://www.facebook.com/mario.isamitt" target="_blank" class="action-button" role="button">
           Perfil Facebook
         </a>
-        <a href="#" class="action-button" role="button">
+        <a href="https://www.instagram.com/mario.isamitt/" class="action-button" target="_blank"  role="button">
           Perfil Instagram
         </a>
-        <a href="#" class="action-button" role="button">
+        <a href="" class="action-button" target="_blank"  role="button">
           Libro "Un viaje a la salud"
         </a>
       </nav>
@@ -55,7 +55,7 @@ Me comprometo a escucharte con atención y tratarte con respeto. Me sentiré fel
       </article>
 
       <figure class="about-image">
-        <img src="" alt="Dr. Mario Isamitt en consulta">
+        <img src="../assets/mario_isamitt.jpg" alt="Dr. Mario Isamitt en consulta">
       </figure>
     </section>
   </main>
@@ -101,7 +101,15 @@ Me comprometo a escucharte con atención y tratarte con respeto. Me sentiré fel
   height: 200px;
   border-radius: 10px;
   background: var(--primary-color);
-  margin: 0 auto 1rem;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  object-fit: cover;
+  border-radius: 20px;
 }
 
 .contact-info {
@@ -157,7 +165,7 @@ Me comprometo a escucharte con atención y tratarte con respeto. Me sentiré fel
 
 .about-image {
   width: 80%;
-  height: 80%;
+  height: auto;
   margin: 0 auto;
   border-radius: 30px;
   background: var(--gray-color);
