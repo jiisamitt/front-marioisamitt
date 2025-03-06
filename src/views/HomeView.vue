@@ -55,7 +55,7 @@ Me comprometo a escucharte con atención y tratarte con respeto. Me sentiré fel
       </article>
 
       <figure class="about-image">
-        <img src="../assets/mario_isamitt.jpg" alt="Dr. Mario Isamitt en consulta">
+        <img src="../assets/mario_isamitt_2.jpeg" alt="Dr. Mario Isamitt en consulta">
       </figure>
     </section>
   </main>
@@ -163,7 +163,7 @@ img {
 }
 
 .about-image {
-  width: 80%;
+  width: 50%;
   height: auto;
   margin: 0 auto;
   border-radius: 30px;
